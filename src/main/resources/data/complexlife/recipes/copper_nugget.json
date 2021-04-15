@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "",
+  "ingredients": [
+    {"item": "complexlife:copper_ingot"}
+  ],
+  "result": {
+    "item": "complexlife:copper_nugget",
+    "count": 9
+  }
+}

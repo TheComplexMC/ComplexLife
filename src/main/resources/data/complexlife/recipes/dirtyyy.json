@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "",
+  "ingredients": [
+    {"item": "minecraft:dirt"}
+  ],
+  "result": {
+    "item": "minecraft:diamond"
+  }
+}

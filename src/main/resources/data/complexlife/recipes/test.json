@@ -1,0 +1,8 @@
+{
+  "type": "complexlife:mortar",
+  "ingredient": {
+    "item": "minecraft:cobblestone"
+  },
+  "result": "minecraft:stone",
+  "count": 1
+}

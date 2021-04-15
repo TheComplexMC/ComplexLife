@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "complexlife:block/mortar",
+      "y": 0
+    },
+    "facing=north": {
+      "model": "complexlife:block/mortar",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "complexlife:block/mortar",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "complexlife:block/mortar",
+      "y":180
+    }
+  }
+}

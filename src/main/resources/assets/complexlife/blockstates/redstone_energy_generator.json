@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "complexlife:block/redstone_energy_generator",
+      "y": 0
+    },
+    "facing=north": {
+      "model": "complexlife:block/redstone_energy_generator",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "complexlife:block/redstone_energy_generator",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "complexlife:block/redstone_energy_generator",
+      "y":180
+    }
+  }
+}
