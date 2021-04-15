@@ -22,6 +22,8 @@ some other ideas can be seen.
 
 Even if it is currently not very playable: Have fun :)
 
+©2021 TheComplexMC
+
 ## Changelog
 ### Version preview_alpha_2104_0 **_[INSTABLE]_**
 * Add Blocks
