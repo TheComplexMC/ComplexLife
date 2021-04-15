@@ -1,0 +1,12 @@
+{
+  "block.complexlife.oak_framework": "Eichen Gerüst",
+  "item.complexlife.oak_framework": "Eichen Gerüst",
+  "block.complexlife.mortar": "Mörser",
+  "item.complexlife.mortar": "Mörser",
+
+  "item.complexlife.stone_dust": "Steinstaub",
+  "item.complexlife.copper_cable": "Kupferkabel",
+
+  "itemGroup.core_blocks": "Complex Life",
+  "container.complexlife.mortar": "Mörser"
+}

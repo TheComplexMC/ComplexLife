@@ -1,0 +1,12 @@
+{
+  "block.complexlife.oak_framework": "Oak Framework",
+  "item.complexlife.oak_framework": "Oak Framework",
+  "block.complexlife.mortar": "Mortar",
+  "item.complexlife.mortar": "Mortar",
+
+  "item.complexlife.stone_dust": "Stone dust",
+  "item.complexlife.copper_cable": "Copper Cable",
+
+  "itemGroup.core_blocks": "Complex Life",
+  "container.complexlife.mortar": "Mortar"
+}

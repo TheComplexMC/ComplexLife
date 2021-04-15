@@ -1,0 +1,17 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "complexlife:copper_nugget"
+    }
+  },
+  "result": {
+    "item": "complexlife:copper_ingot"
+  }
+}

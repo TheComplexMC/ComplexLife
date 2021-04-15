@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "complexlife:copper_ore"
+  },
+  "result": "complexlife:copper_ingot",
+  "experience": 0.35,
+  "cookingtime": 200
+}
